@@ -1,0 +1,58 @@
+<style>
+    header {
+    	text-align: center;
+    	vertical-align: center;
+    	margin: 800px 0px 0px 200px;
+    }
+    img {
+      border: 7px solid black;
+      border-radius: 10px;
+    }
+	  body {
+  	  font-family: helvetica;
+  	  background-color: #E6E6E6;
+	  }
+    h1 {
+    	text-align: center;
+    	color: black;
+	  }
+	  ul {
+      padding: 10px;
+      background: rgba(255,150,0,0.5);
+      text-align: center;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    h3 {
+      text-align: right;
+    }
+	  .title {
+  		height: 200px;
+  		margin: 0 0 0 800px;
+  		max-width: 600px;
+  		position: relative;
+  		border-radius: 12px;
+	  }
+	  p {
+  		padding: 10px;
+  		margin: 0px;
+  		text-align: right;
+  		line-height: 25px;
+  		position: absolute;
+  		bottom: 0;
+  	}
+    .senna {
+  		border-radius: 2px;
+  		margin:-200px 0 0 0;
+  	}
+  	.logo {
+  		margin: -800px 850px 0 0;
+  		border: 0px;
+    }
+    .caption {
+      margin: 0 300px 0 0;
+    }
+
+</style>
